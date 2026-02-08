@@ -1,0 +1,29 @@
+{
+  "title": "Community Cloud Forge",
+  "theme": "dark",
+  "components": [
+    {
+      "id": "navbar-1",
+      "type": "Navbar",
+      "content": {
+        "brand": "Forge.io",
+        "links": [
+          "Workspace",
+          "Cloud",
+          "Settings"
+        ]
+      },
+      "styles": {}
+    },
+    {
+      "id": "hero-1",
+      "type": "Hero",
+      "content": {
+        "headline": "Autonomous Cloud IDE",
+        "subheadline": "Edit files directly or use AI to forge your architecture.",
+        "cta": "Get Started"
+      },
+      "styles": {}
+    }
+  ]
+}
